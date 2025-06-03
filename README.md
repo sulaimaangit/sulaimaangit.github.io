@@ -1,7 +1,3 @@
-Certainly! Here's a brief overview of your website portfolio project:
-
----
-
 **Project Title: My Website Portfolio**
 
 **Description:**
@@ -24,5 +20,3 @@ If you'd like to contribute to this project or suggest improvements, feel free t
 
 **Contact:**
 For inquiries or feedback, please reach out to muhammadsulaimaanofficial@gmail.com].
-
----
