@@ -19,11 +19,11 @@ html{
     background: black;
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(20, 173, 220);
+    background: rgb(0, 150, 50);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: rgb(20, 173, 220);
+    background: rgb(0, 150, 50);
 }
 
 /* all similar content styling codes */
@@ -71,7 +71,7 @@ section .title::after{
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: rgb(20, 173, 220);
+    color: rgb(0, 150, 50);
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -88,7 +88,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: rgb(20, 173, 220);
+    background: rgb(0, 150, 50);
 }
 .navbar .max-width{
     display: flex;
@@ -101,7 +101,7 @@ section .title::after{
     font-weight: 650;
 }
 .navbar .logo a span{
-    color: rgb(20, 173, 220);
+    color: rgb(0, 150, 50);
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
@@ -120,7 +120,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: rgb(20, 173, 220);
+    color: rgb(0, 150, 50);
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -137,7 +137,7 @@ section .title::after{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: rgb(20, 173, 220);
+    background: rgb(0, 150, 50);
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -195,7 +195,7 @@ section .title::after{
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: rgb(9, 255, 91);
+    color: rgb(0, 150, 50);
     background-color: rgba(0, 0, 0, 0);
 
     font-weight: 500;
@@ -264,7 +264,7 @@ section .title::after{
 }
 .about .about-content .right a:hover{
     
-    background: rgb(0, 150, 50);
+    background: rgb(9, 255, 91);
     color: rgb(255, 255, 255);
 }
 
@@ -288,7 +288,7 @@ section .title::after{
     transition: all  ease;
 }
 .services .serv-content .card:hover{
-    background: rgb(20, 173, 220);
+    background: rgb(0, 150, 50);
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -298,7 +298,7 @@ section .title::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: rgb(20, 173, 220);
+    color: rgb(9, 255, 91);
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
